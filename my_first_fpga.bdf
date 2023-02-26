@@ -115,3 +115,9 @@ https://fpgasoftware.intel.com/eula.
 	(pt 8 240)
 	(pt 112 240)
 )
+(connector
+	(text "counter[31..0]" (rect 618 224 682 241)(font "Intel Clear" ))
+	(pt 608 240)
+	(pt 688 240)
+	(bus)
+)
